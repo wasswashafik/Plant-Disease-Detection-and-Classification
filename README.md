@@ -1,5 +1,5 @@
 # Official Responsitoy 
-This is the code of the paper "Using Transfer Learning with Convolutional Neural Networks for Plant Disease Detection and Classification," published in Plant Diversity. 
+This is the code of the paper "Enhanced Plant Disease Detection and Classification using Transfer Learning in Convolutional Neural Networks," published in Plant Stress. 
 
 # The entire code will be made available after acceptance.
 
